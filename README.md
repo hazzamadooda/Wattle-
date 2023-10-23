@@ -1,6 +1,13 @@
-This is an informative and socializing application for ANU students.
+# This is a socializing application for ANU students.
 
-This is a socializing application for ANU students.
+<p float="left">
+  <img src="items/media/screenshots/homePage.png" alt="drawing" width="200"/>
+  <img src="items/media/screenshots/contacts.png" alt="drawing" width="200"/>
+  <img src="items/media/screenshots/chatP2P.png" alt="drawing" width="200"/>
+</p>
+
+## This is an informative and socializing application for ANU students.
+
 
 Wattle+ is a social media application targeting ANU students. Our mission is to bring ANU students together. It acts as a search engine where students can search for others who has an aligned academic pathway and reach out to them through p2p messaging, making new friends throughout the process. Specifically, users will be able to search for other students who are doing the same courses as them, therefore sharing the same field and interests.
 Users have the convenience of viewing their ongoing courses, and can stay informed about other courses in similair fields that may align with their acadmic goal. Individuals can also maintain a comprehensive record of their current courses, helping them stay organized and up to date with their academic endeavors.
